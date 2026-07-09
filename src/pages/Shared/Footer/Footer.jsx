@@ -1,9 +1,8 @@
-import React from "react";
 import Logo from "../../../components/Logo/Logo";
 
 const Footer = () => {
   return (
-    <footer className="footer footer-horizontal footer-center text-primary-content p-10">
+    <footer className="footer footer-horizontal footer-center p-10">
       <aside>
         <Logo></Logo>
         <p className="font-bold">
