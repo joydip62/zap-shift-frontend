@@ -1,0 +1,402 @@
+[
+  {
+    "region": "North",
+    "district": "New Delhi",
+    "city": "New Delhi",
+    "covered_area": ["Connaught Place", "Dwarka", "Rohini"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 77.209,
+    "latitude": 28.6139
+  },
+  {
+    "region": "West",
+    "district": "Mumbai",
+    "city": "Mumbai",
+    "covered_area": ["Andheri", "Bandra", "Thane"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 72.8777,
+    "latitude": 19.076
+  },
+  {
+    "region": "South",
+    "district": "Bengaluru Urban",
+    "city": "Bengaluru",
+    "covered_area": ["Whitefield", "Electronic City", "Koramangala"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 77.5946,
+    "latitude": 12.9716
+  },
+  {
+    "region": "South",
+    "district": "Chennai",
+    "city": "Chennai",
+    "covered_area": ["T. Nagar", "Anna Nagar", "Velachery"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 80.2707,
+    "latitude": 13.0827
+  },
+  {
+    "region": "East",
+    "district": "Kolkata",
+    "city": "Kolkata",
+    "covered_area": ["Salt Lake", "New Town", "Behala"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 88.3639,
+    "latitude": 22.5726
+  },
+  {
+    "region": "West",
+    "district": "Ahmedabad",
+    "city": "Ahmedabad",
+    "covered_area": ["Satellite", "Navrangpura", "Bopal"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 72.5714,
+    "latitude": 23.0225
+  },
+  {
+    "region": "South",
+    "district": "Hyderabad",
+    "city": "Hyderabad",
+    "covered_area": ["Gachibowli", "Hitech City", "Kukatpally"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 78.4867,
+    "latitude": 17.385
+  },
+  {
+    "region": "West",
+    "district": "Pune",
+    "city": "Pune",
+    "covered_area": ["Hinjewadi", "Kothrud", "Viman Nagar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 73.8567,
+    "latitude": 18.5204
+  },
+  {
+    "region": "West",
+    "district": "Surat",
+    "city": "Surat",
+    "covered_area": ["Adajan", "Vesu", "Katargam"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 72.8311,
+    "latitude": 21.1702
+  },
+  {
+    "region": "West",
+    "district": "Vadodara",
+    "city": "Vadodara",
+    "covered_area": ["Alkapuri", "Gotri", "Manjalpur"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 73.1812,
+    "latitude": 22.3072
+  },
+  {
+    "region": "South",
+    "district": "Mysuru",
+    "city": "Mysuru",
+    "covered_area": ["Vijayanagar", "Kuvempu Nagar", "Nazarbad"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 76.6394,
+    "latitude": 12.2958
+  },
+  {
+    "region": "South",
+    "district": "Kochi",
+    "city": "Kochi",
+    "covered_area": ["Edappally", "Kakkanad", "Fort Kochi"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 76.2673,
+    "latitude": 9.9312
+  },
+  {
+    "region": "South",
+    "district": "Thiruvananthapuram",
+    "city": "Thiruvananthapuram",
+    "covered_area": ["Kowdiar", "Kazhakkoottam", "Pattom"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 76.9366,
+    "latitude": 8.5241
+  },
+  {
+    "region": "South",
+    "district": "Coimbatore",
+    "city": "Coimbatore",
+    "covered_area": ["RS Puram", "Peelamedu", "Gandhipuram"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 76.9558,
+    "latitude": 11.0168
+  },
+  {
+    "region": "South",
+    "district": "Madurai",
+    "city": "Madurai",
+    "covered_area": ["Anna Nagar", "KK Nagar", "Tallakulam"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 78.1198,
+    "latitude": 9.9252
+  },
+  {
+    "region": "North",
+    "district": "Jaipur",
+    "city": "Jaipur",
+    "covered_area": ["Malviya Nagar", "Mansarovar", "Vaishali Nagar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 75.7873,
+    "latitude": 26.9124
+  },
+  {
+    "region": "North",
+    "district": "Jodhpur",
+    "city": "Jodhpur",
+    "covered_area": ["Ratanada", "Shastri Nagar", "Sardarpura"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 73.0243,
+    "latitude": 26.2389
+  },
+  {
+    "region": "North",
+    "district": "Udaipur",
+    "city": "Udaipur",
+    "covered_area": ["Hiran Magri", "Fatehpura", "Shobhagpura"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 73.7125,
+    "latitude": 24.5854
+  },
+  {
+    "region": "Central",
+    "district": "Bhopal",
+    "city": "Bhopal",
+    "covered_area": ["MP Nagar", "Arera Colony", "Kolar Road"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 77.4126,
+    "latitude": 23.2599
+  },
+  {
+    "region": "Central",
+    "district": "Indore",
+    "city": "Indore",
+    "covered_area": ["Vijay Nagar", "Palasia", "Rau"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 75.8577,
+    "latitude": 22.7196
+  },
+  {
+    "region": "Central",
+    "district": "Gwalior",
+    "city": "Gwalior",
+    "covered_area": ["Lashkar", "City Centre", "Morar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 78.1828,
+    "latitude": 26.2183
+  },
+  {
+    "region": "East",
+    "district": "Bhubaneswar",
+    "city": "Bhubaneswar",
+    "covered_area": ["Patia", "Khandagiri", "Saheed Nagar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 85.8245,
+    "latitude": 20.2961
+  },
+  {
+    "region": "East",
+    "district": "Cuttack",
+    "city": "Cuttack",
+    "covered_area": ["CDA", "Badambadi", "Mangalabag"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 85.8828,
+    "latitude": 20.4625
+  },
+  {
+    "region": "East",
+    "district": "Patna",
+    "city": "Patna",
+    "covered_area": ["Boring Road", "Kankarbagh", "Danapur"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 85.1376,
+    "latitude": 25.5941
+  },
+  {
+    "region": "East",
+    "district": "Ranchi",
+    "city": "Ranchi",
+    "covered_area": ["Harmu", "Morabadi", "Doranda"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 85.3096,
+    "latitude": 23.3441
+  },
+  {
+    "region": "East",
+    "district": "Dhanbad",
+    "city": "Dhanbad",
+    "covered_area": ["Bank More", "Hirapur", "Saraidhela"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 86.4304,
+    "latitude": 23.7957
+  },
+  {
+    "region": "North",
+    "district": "Lucknow",
+    "city": "Lucknow",
+    "covered_area": ["Gomti Nagar", "Hazratganj", "Aliganj"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 80.9462,
+    "latitude": 26.8467
+  },
+  {
+    "region": "North",
+    "district": "Kanpur",
+    "city": "Kanpur",
+    "covered_area": ["Kakadeo", "Swaroop Nagar", "Govind Nagar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 80.3319,
+    "latitude": 26.4499
+  },
+  {
+    "region": "North",
+    "district": "Agra",
+    "city": "Agra",
+    "covered_area": ["Sikandra", "Dayal Bagh", "Tajganj"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 78.0081,
+    "latitude": 27.1767
+  },
+  {
+    "region": "North",
+    "district": "Varanasi",
+    "city": "Varanasi",
+    "covered_area": ["Lanka", "Sigra", "Assi"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 82.9739,
+    "latitude": 25.3176
+  },
+  {
+    "region": "North",
+    "district": "Prayagraj",
+    "city": "Prayagraj",
+    "covered_area": ["Civil Lines", "Naini", "Jhunsi"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 81.8463,
+    "latitude": 25.4358
+  },
+  {
+    "region": "North",
+    "district": "Amritsar",
+    "city": "Amritsar",
+    "covered_area": ["Ranjit Avenue", "Lawrence Road", "Majitha Road"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 74.8723,
+    "latitude": 31.634
+  },
+  {
+    "region": "North",
+    "district": "Chandigarh",
+    "city": "Chandigarh",
+    "covered_area": ["Sector 17", "Sector 22", "Manimajra"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 76.7794,
+    "latitude": 30.7333
+  },
+  {
+    "region": "North",
+    "district": "Dehradun",
+    "city": "Dehradun",
+    "covered_area": ["Rajpur Road", "Prem Nagar", "Ballupur"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 78.0322,
+    "latitude": 30.3165
+  },
+  {
+    "region": "South",
+    "district": "Visakhapatnam",
+    "city": "Visakhapatnam",
+    "covered_area": ["MVP Colony", "Gajuwaka", "Madhurawada"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 83.2185,
+    "latitude": 17.6868
+  },
+  {
+    "region": "South",
+    "district": "Vijayawada",
+    "city": "Vijayawada",
+    "covered_area": ["Benz Circle", "Governorpet", "Patamata"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 80.648,
+    "latitude": 16.5062
+  },
+  {
+    "region": "South",
+    "district": "Guntur",
+    "city": "Guntur",
+    "covered_area": ["Brodipet", "Arundelpet", "Lalapet"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 80.4365,
+    "latitude": 16.3067
+  },
+  {
+    "region": "Northeast",
+    "district": "Guwahati",
+    "city": "Guwahati",
+    "covered_area": ["Dispur", "Beltola", "Paltan Bazar"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 91.7362,
+    "latitude": 26.1445
+  },
+  {
+    "region": "Northeast",
+    "district": "Shillong",
+    "city": "Shillong",
+    "covered_area": ["Laitumkhrah", "Police Bazar", "Mawlai"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 91.8933,
+    "latitude": 25.5788
+  },
+  {
+    "region": "North",
+    "district": "Srinagar",
+    "city": "Srinagar",
+    "covered_area": ["Lal Chowk", "Rajbagh", "Bemina"],
+    "status": "active",
+    "flowchart": "",
+    "longitude": 74.7973,
+    "latitude": 34.0837
+  }
+]

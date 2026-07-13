@@ -1,4 +1,3 @@
-import React from "react";
 import Logo from "../../../components/Logo/Logo";
 import { NavLink } from "react-router";
 
@@ -6,22 +5,22 @@ const Navbar = () => {
   const links = (
     <>
       <li>
-        <NavLink to="">Services</NavLink>
+        <NavLink to="./services">Services</NavLink>
       </li>
       <li>
-        <NavLink to="">Coverage</NavLink>
+        <NavLink to="./coverage">Coverage</NavLink>
       </li>
       <li>
-        <NavLink to="">About Us</NavLink>
+        <NavLink to="./about">About Us</NavLink>
       </li>
       <li>
-        <NavLink to="">Pricing</NavLink>
+        <NavLink to="./pricing">Pricing</NavLink>
       </li>
       <li>
-        <NavLink to="">Blog</NavLink>
+        <NavLink to="./blog">Blog</NavLink>
       </li>
       <li>
-        <NavLink to="">Contact</NavLink>
+        <NavLink to="./contact">Contact</NavLink>
       </li>
     </>
   );
@@ -62,7 +61,7 @@ const Navbar = () => {
         <ul className="menu menu-horizontal px-1">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Button</a>
+        <NavLink to="/login" className="btn">Login</NavLink>
       </div>
     </div>
   );
